@@ -1,3 +1,8 @@
+// Karina Ionkina
+// SoftDev2 pd7
+// K8 -- Animation Nation
+// 2018-03-04
+
 var pic = document.getElementById("vimage");
 var beep = document.getElementById("beep");
 var circle = document.getElementById("circle");
